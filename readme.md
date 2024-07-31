@@ -1,4 +1,4 @@
-# SeeWhatYouType-JavaScript-project-1 
+# SeeWhatYouType-JavaScript-project
 
 
 
